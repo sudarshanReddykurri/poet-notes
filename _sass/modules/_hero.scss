@@ -4,9 +4,8 @@
 
 .hero {
 	height: 335px;
-	background: url('#{$path--rel}/bg-main.jpg'),
-	            linear-gradient(#75da8f, #77cae9);
-	background-blend-mode: multiply;
+	background: url('https://www.google.co.in/imgres?imgurl=http://www.poetseers.org/wp-content/uploads/shakespeare_william-thine-own-self-be-true2.jpg&imgrefurl=http://www.poetseers.org/&h=250&w=600&tbnid=giA6xwuLAxexeM:&docid=fF0jNsYw_gVmXM&ei=b_W7VvO7HcifugTNiZ2QBg&tbm=isch&ved=0ahUKEwizr7Gu2O7KAhXIj44KHc1EB2IQMwiWAShaMFo'),
+	            
 	background-repeat: no-repeat;
 	background-size: cover;
 	margin-bottom: em(50px);
