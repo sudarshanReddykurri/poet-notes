@@ -1,11 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: Poet Notes
+email: kurrisudarshanaug12@gmail.com
+description: Penned down from the worlds best authors 
+baseurl: "/poet-notes"
+twitter_username: kurrisudarshan
+avatar: "https://pbs.twimg.com/profile_images/493785076241428480/DbFhi5jH.jpeg" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "kurri sudarshan" # Set default author name
+      categories: "poetry"
       layout: "post"
       comments: true
   -
